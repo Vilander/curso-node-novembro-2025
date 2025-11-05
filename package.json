@@ -1,0 +1,21 @@
+{
+  "name": "curso-node-novembro-2025",
+  "version": "1.0.0",
+  "description": "Primeiro projeto com node",
+  "homepage": "https://github.com/Vilander/curso-node-novembro-2025#readme",
+  "bugs": {
+    "url": "https://github.com/Vilander/curso-node-novembro-2025/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vilander/curso-node-novembro-2025.git"
+  },
+  "license": "ISC",
+  "author": "Vilander Costa",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  }
+}
